@@ -1,0 +1,12 @@
+[project]
+name = "openai-realtime-example"
+version = "0.1.0"
+description = "OpenAI Realtime API example"
+requires-python = ">=3.9"
+dependencies = [
+    "openai>=1.55.0",
+    "websockets",
+    "soundfile",
+    "numpy",
+    "python-dotenv",
+]
