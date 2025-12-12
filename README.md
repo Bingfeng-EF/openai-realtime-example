@@ -1,6 +1,6 @@
 # OpenAI Realtime API Example
 
-This project demonstrates how to use the OpenAI Python SDK to interact with the **GPT-4o Realtime API**. It streams a local audio file to the API, simulating a microphone input, and prints the user's transcription and the assistant's response.
+This project demonstrates how to use the OpenAI Python SDK to interact with the **GPT Realtime API**. It streams a local audio file to the API, simulating a microphone input, and prints the user's transcription and the assistant's response.
 
 ## Prerequisites
 
