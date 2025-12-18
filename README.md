@@ -21,7 +21,9 @@ This project demonstrates how to use the OpenAI Python SDK to interact with the 
     ```env
     OPENAI_API_KEY=sk-proj-...
     # provide the right value for if you use Azure OpenAI
+    # OPENAI_API_BASE=https://api.openai.com/v1
     OPENAI_BASE_URL=https://efekta-ai-qa-east-us-2.openai.azure.com/openai/v1
+    # Azure OpenAI deployment name
     OPENAI_REALTIME_MODEL=gpt-realtime
     ```
 
