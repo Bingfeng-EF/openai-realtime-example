@@ -6,7 +6,7 @@ This project demonstrates how to use the OpenAI Python SDK to interact with the 
 
 - **Python 3.9+**
 - **[uv](https://github.com/astral-sh/uv)** (recommended for dependency management) or `pip`
-- **OpenAI API Key** with access to the Realtime API (beta)
+- **OpenAI API Key** with access to the Realtime API
 
 ## Setup
 
